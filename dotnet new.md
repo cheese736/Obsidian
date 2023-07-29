@@ -1,0 +1,1 @@
+This command allows you to create new projects from templates.
