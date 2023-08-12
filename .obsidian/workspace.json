@@ -41,14 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object-Oriented Programming.md",
+                "file": "ASP.NET core/ASP.NET Core.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdd2560114aa7c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASP.NET core/ASP.NET Core.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 437.5
   },
   "right": {
     "id": "43d1e78ea521210a",
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object-Oriented Programming.md",
+                "file": "ASP.NET core/ASP.NET Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object-Oriented Programming.md",
+                "file": "ASP.NET core/ASP.NET Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object-Oriented Programming.md"
+                "file": "ASP.NET core/ASP.NET Core.md"
               }
             }
           }
@@ -163,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 378.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,16 +187,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "924c277d6a95c8c7",
+  "active": "fdd2560114aa7c92",
   "lastOpenFiles": [
-    "2023-08-10.md",
+    "Content Root.md",
+    "Web Root.md",
+    "ASP.NET core/ASP.NET Core.md",
+    "Routing.md",
+    "Logging.md",
+    "Host.md",
+    "Model Binding.md",
     "Object-Oriented Programming.md",
+    "Program.cs.md",
+    "SQL order of execution.md",
+    "Servers.md",
+    "ASP.NET core/Middleware.md",
+    "ASP.NET core/Pasted image 20230811020647.png",
+    "ASP.NET core/Dependency Injection(DI).md",
+    "Environment.md",
+    "dotnet SDK/dotnet SDK Command.md",
+    "dotnet SDK/dotnet new.md",
+    "dotnet SDK/dotnet clean.md",
+    "dotnet SDK",
+    "ASP.NET core",
+    "2023-08-10.md",
     "AJAX vs fetch API().md",
     "ASP.NET Core.md",
     "dotnet clean.md",
     "dotnet new.md",
     "Dotnet SDK Command.md",
-    "SQL order of execution.md",
     "Untitled.canvas",
     "ASP.NET Core/Tag Helper.md",
     "ASP.NET Core"

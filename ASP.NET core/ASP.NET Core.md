@@ -1,7 +1,15 @@
-[[dotnet SDK Command]]
+
 [[Program.cs]]
+[[Host]]
 [[Dependency Injection(DI)]]
 [[Middleware]]
+[[Servers]]
 [[Model Binding]]
-[[AutoMapper]]
 [[Tag Helper]]
+[[Environment]]
+[[dotnet SDK Command]]
+[[Logging]]
+
+[[Routing]]
+[[Web Root]]
+[[Content Root]]
