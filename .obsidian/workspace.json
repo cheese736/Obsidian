@@ -11,8 +11,24 @@
             "id": "f4804435fd694dd8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern in C#/Gamma Categorization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ae320a995b92943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Builder.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -51,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "36183acd686a8d5e",
@@ -118,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Builder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Builder.md"
+              }
             }
           }
         ]
@@ -175,10 +195,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4804435fd694dd8",
+  "active": "6ae320a995b92943",
   "lastOpenFiles": [
+    "Design Pattern in C#/Gamma Categorization.md",
+    "Builder.md",
+    "SQL/Syntax note.md",
+    "Design Pattern in C#",
+    "SQL/SQL order of execution.md",
+    "Entity Framework Core/DbContext Lifetime, Configuration, and Initialization.md",
+    "Microsoft SQL Server Data Types Cheatsheet.md",
+    "ASP.NET core/Middleware.md",
+    "ASP.NET core/Pasted image 20230811020647.png",
+    "Host.md",
+    "Logging.md",
+    "Environment.md",
+    "Content Root.md",
+    "AJAX vs fetch API().md",
+    "SQL",
+    "Entity Framework Core",
     "Stack and Heap.md",
-    "Value type vs Reference type.md",
-    "Microsoft SQL Server Data Types Cheatsheet.md"
+    "Value type vs Reference type.md"
   ]
 }
