@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Builder.md",
+                "file": "Design Pattern in C#/Builder.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1fdf562425c69a46",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
               }
             }
           },
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Builder.md",
+                "file": "Design Pattern in C#/Builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Builder.md",
+                "file": "Design Pattern in C#/Builder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +184,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Builder.md"
+                "file": "Design Pattern in C#/Builder.md"
+              }
+            }
+          },
+          {
+            "id": "12105785cf5f8eaa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -195,11 +215,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ae320a995b92943",
+  "active": "13960612256149d2",
   "lastOpenFiles": [
-    "Design Pattern in C#/Gamma Categorization.md",
-    "Builder.md",
+    "ASP.NET core/Web Root.md",
+    "ASP.NET core/Logging.md",
+    "ASP.NET core/Routing.md",
+    "ASP.NET core/Program.cs.md",
+    "Design Pattern in C#/Builder.md",
     "SQL/Syntax note.md",
+    "Design Pattern in C#/Gamma Categorization.md",
     "Design Pattern in C#",
     "SQL/SQL order of execution.md",
     "Entity Framework Core/DbContext Lifetime, Configuration, and Initialization.md",
@@ -207,7 +231,6 @@
     "ASP.NET core/Middleware.md",
     "ASP.NET core/Pasted image 20230811020647.png",
     "Host.md",
-    "Logging.md",
     "Environment.md",
     "Content Root.md",
     "AJAX vs fetch API().md",
