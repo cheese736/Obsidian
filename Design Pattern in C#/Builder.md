@@ -54,6 +54,17 @@ But, as we can see, we are not able to create a required object. This is because
 
 So, we need to find a solution ==to propagate information from the derived class to the base class==. And the solution is in **recursive generics** approach.
 
+>If it doesn’t make sense, think of it this way, our only goal is to have the subtype class returned in the Parent class(**PersonBuilder**) so that whenver we use the latest subclass we want all its inherited methods **&** to also return the same type as the subcl ass.
+
+---
+
+##  2.  Stepwsie builder
+One might encounter situation that the builder should perform a set of steps, one after another in a specific order.
+
+
+## 3. Functional Builder
+- Unlike traditional class builders, we are not required to create a new instance or reset the state every time we want to use the builder. I’ve seen test code become extremely hard to read because the _forEach_ is riddled with building and resetting the state. Even worse, I’ve seen tests covered with reset logic that must run after each test. These are implementation details that we shouldn’t have to manage. The functional builder eliminates these problems.
+- 
 
 
 

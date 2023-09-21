@@ -1,8 +1,8 @@
 {
   "accentColor": "#475b66",
   "theme": "moonstone",
-  "textFontFamily": "Arial",
+  "textFontFamily": "Inconsolata,Arial",
   "monospaceFontFamily": "Fira Code Retina",
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "cssTheme": "Minimal"
 }
