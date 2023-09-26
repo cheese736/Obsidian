@@ -51,4 +51,15 @@ Steps of an expression are separated by `/`, usually used to pick child nodes. 
 |`//`|`ul`|`/child::`|`li`|
 |Axis|Step|Axis|Step|
 
+# Nesting predicates
+
+```
+//section[.//h1[@id='hi']]
+```
+
+`//`: Anywhere
+`section`: we are going to find `section` of some condition.
+`.`: Current node, which is `section` in this case
+`//`: Anywhere in `section`
+`h1[@id='hi']`: `section` has node `h1` with `id` equal to `'hi'`
 

@@ -115,14 +115,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack and Heap.md",
+                "file": "XPath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f1f95441101ce8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Threads and threading.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -188,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stack and Heap.md",
+                "file": "Threads and threading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stack and Heap.md",
+                "file": "Threads and threading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stack and Heap.md"
+                "file": "Threads and threading.md"
               }
             }
           },
@@ -259,9 +271,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcaf91c49fc1590e",
+  "active": "7f1f95441101ce8d",
   "lastOpenFiles": [
     "XPath.md",
+    "Threads and threading.md",
     "Stack and Heap.md",
     "Statically typed vs Dymanically typed.md",
     "Microsoft SQL Server Data Types Cheatsheet.md",
