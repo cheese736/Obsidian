@@ -132,9 +132,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "324bdf61997ab379",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "7652bfc39f31d454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Async and Await.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -200,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threads and threading.md",
+                "file": "Async and Await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threads and threading.md",
+                "file": "Async and Await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Threads and threading.md"
+                "file": "Async and Await.md"
               }
             }
           },
@@ -271,10 +293,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f1f95441101ce8d",
+  "active": "7652bfc39f31d454",
   "lastOpenFiles": [
-    "XPath.md",
     "Threads and threading.md",
+    "Async and Await.md",
+    "Source.md",
+    "XPath.md",
     "Stack and Heap.md",
     "Statically typed vs Dymanically typed.md",
     "Microsoft SQL Server Data Types Cheatsheet.md",
