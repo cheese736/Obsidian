@@ -32,131 +32,51 @@
             }
           },
           {
-            "id": "1fdf562425c69a46",
+            "id": "a29fe82e38bb4552",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "c40cfeac7695f08e",
+            "id": "4f50aba9e2aa5966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack and Heap.md",
+                "file": "CSharp Events.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b918a06ba09e42ee",
+            "id": "1b83cc77ddab99c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Value type vs Reference type.md",
+                "file": "External code.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4114ed02f9b0e979",
+            "id": "d33062ccf50e61d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microsoft SQL Server Data Types Cheatsheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef9a2a31530fab83",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "65068cfd211c61d7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "65befa98c491fed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dotnet SDK/dotnet SDK Command.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcaf91c49fc1590e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "XPath.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f1f95441101ce8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threads and threading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "324bdf61997ab379",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "7652bfc39f31d454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Async and Await.md",
+                "file": "External code.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -202,12 +122,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "36183acd686a8d5e",
@@ -223,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Async and Await.md",
+                "file": "External code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Async and Await.md",
+                "file": "External code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Async and Await.md"
+                "file": "External code.md"
               }
             }
           },
@@ -294,15 +214,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7652bfc39f31d454",
+  "active": "d33062ccf50e61d1",
   "lastOpenFiles": [
-    "Threads and threading.md",
+    "Reference and Service Reference.md",
+    "External code.md",
+    "CSharp Events.md",
+    "WCF explain.md",
+    "Design Pattern in C#/Builder.md",
+    "Stack and Heap.md",
     "Async and Await.md",
+    "Microsoft SQL Server Data Types Cheatsheet.md",
+    "Design Pattern in C#/Gamma Categorization.md",
+    "Threads and threading.md",
     "Source.md",
     "XPath.md",
-    "Stack and Heap.md",
     "Statically typed vs Dymanically typed.md",
-    "Microsoft SQL Server Data Types Cheatsheet.md",
     "dotnet SDK/dotnet SDK Command.md",
     "dotnet SDK/dotnet clean.md",
     "Entity Framework Core/DbContext Lifetime, Configuration, and Initialization.md",
@@ -310,9 +236,7 @@
     "ASP.NET core/Logging.md",
     "ASP.NET core/Routing.md",
     "ASP.NET core/Program.cs.md",
-    "Design Pattern in C#/Builder.md",
     "SQL/Syntax note.md",
-    "Design Pattern in C#/Gamma Categorization.md",
     "Design Pattern in C#",
     "SQL/SQL order of execution.md",
     "ASP.NET core/Middleware.md",
@@ -320,9 +244,7 @@
     "Host.md",
     "Environment.md",
     "Content Root.md",
-    "AJAX vs fetch API().md",
     "SQL",
-    "Entity Framework Core",
-    "Value type vs Reference type.md"
+    "Entity Framework Core"
   ]
 }
