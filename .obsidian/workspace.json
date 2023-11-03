@@ -74,9 +74,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05afd919b8989989",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f196e8af8cd37db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSharp Events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -105,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "event",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "36183acd686a8d5e",
@@ -143,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "External code.md",
+                "file": "CSharp Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "External code.md",
+                "file": "CSharp Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "External code.md"
+                "file": "CSharp Events.md"
               }
             }
           },
@@ -214,10 +235,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d33062ccf50e61d1",
+  "active": "0f196e8af8cd37db",
   "lastOpenFiles": [
-    "Reference and Service Reference.md",
+    "ADO.NET.md",
+    "ASP.NET core/Pasted image 20231016104247.png",
     "External code.md",
+    "Untitled.md",
+    "Reference and Service Reference.md",
     "CSharp Events.md",
     "WCF explain.md",
     "Design Pattern in C#/Builder.md",
@@ -241,9 +265,6 @@
     "SQL/SQL order of execution.md",
     "ASP.NET core/Middleware.md",
     "ASP.NET core/Pasted image 20230811020647.png",
-    "Host.md",
-    "Environment.md",
-    "Content Root.md",
     "SQL",
     "Entity Framework Core"
   ]
